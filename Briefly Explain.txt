@@ -1,0 +1,29 @@
+Function Purpose:
+The log_url_info function is designed to record information about each URL that your web crawler visits. It logs details such as the URL itself, the size of the page, the HTTP status code, the depth of the URL in the crawl, and an optional message. The log is saved in a text file (crawl_log.txt).
+
+How It Works:
+Current Time Recording: The function retrieves the current time using the time.time() function, which returns the number of seconds since the Unix epoch (January 1, 1970). This time is then formatted into a human-readable format (%Y-%m-%d %H:%M:%S), such as "2024-09-19 14:30:45", using the time.strftime() function.
+
+Logging Information: The function opens a file named crawl_log.txt in append mode ('a'), which allows it to write new entries to the end of the file without overwriting existing content. For each URL, it writes a log entry that includes the following information:
+
+The URL being visited.
+The size of the page in bytes.
+The HTTP status code returned by the server (e.g., 200 for success).
+The depth of the URL in the crawl hierarchy (indicating how far the crawler has gone from the initial seed URLs).
+The current time (formatted as YYYY-MM-DD HH:MM:SS).
+If a message is provided (such as an error message), it is also written to the log file.
+
+Appending Data: Since the file is opened in append mode, each time a new URL is processed, the log information is added to the end of the file, preserving previous entries.
+
+Example Log Entry:
+yaml
+复制代码
+URL: http://example.com, Size: 1234 bytes, Status: 200, Depth: 2, Time: 2024-09-19 14:30:45
+Message: Successfully fetched
+This function helps track the crawler's progress and any errors that might occur during the crawling process. It creates a persistent log that can be reviewed later for analysis or debugging.
+
+
+
+
+
+

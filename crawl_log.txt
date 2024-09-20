@@ -1,0 +1,445 @@
+URL: https://www.mega.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793041.8194149
+URL: https://www.google.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793041.8252368
+URL: https://www.stuff.co.nz, Size: 2884 bytes, Status: 200, Depth: 0, Time: 1726793042.1565032
+URL: https://www.nzherald.co.nz, Size: 2082376 bytes, Status: 200, Depth: 0, Time: 1726793042.5105233
+URL: https://www.rnz.co.nz, Size: 151661 bytes, Status: 200, Depth: 0, Time: 1726793045.1174982
+URL: https://www.auckland.ac.nz, Size: 252040 bytes, Status: 200, Depth: 0, Time: 1726793045.546674
+URL: https://www.otago.ac.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793045.790569
+URL: https://www.scoop.co.nz, Size: 88140 bytes, Status: 200, Depth: 0, Time: 1726793046.794816
+URL: https://www.tvnz.co.nz, Size: 6646 bytes, Status: 200, Depth: 0, Time: 1726793047.0952208
+URL: https://www.mega.co.nz, Size: 554 bytes, Status: 200, Depth: 0, Time: 1726793047.448113
+URL: https://www.waikato.ac.nz, Size: 293861 bytes, Status: 200, Depth: 0, Time: 1726793049.2456617
+URL: https://www.newshub.co.nz, Size: 45982 bytes, Status: 200, Depth: 0, Time: 1726793050.4166975
+URL: https://www.kiwislot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793050.4856348
+URL: https://www.wgtn.ac.nz, Size: 85139 bytes, Status: 200, Depth: 0, Time: 1726793052.0166876
+URL: https://www.blogspot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793052.4735394
+URL: https://www.radionz.co.nz, Size: 151661 bytes, Status: 200, Depth: 0, Time: 1726793053.0922432
+URL: https://www.victoria.ac.nz, Size: 85139 bytes, Status: 200, Depth: 0, Time: 1726793054.979099
+URL: https://www.odt.co.nz, Size: 154715 bytes, Status: 200, Depth: 0, Time: 1726793056.1531518
+URL: https://www.pinterest.nz, Size: 412623 bytes, Status: 200, Depth: 0, Time: 1726793057.8013532
+URL: https://www.aut.ac.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793059.9678936
+URL: https://www.free-pokies.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793061.2758174
+URL: https://www.privacy.org.nz, Size: 212 bytes, Status: 200, Depth: 0, Time: 1726793061.538211
+URL: https://www.newstalkzb.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793063.5179315
+URL: https://www.thespinoff.co.nz, Size: 978759 bytes, Status: 200, Depth: 0, Time: 1726793063.6447518
+URL: https://www.newsroom.co.nz, Size: 331610 bytes, Status: 200, Depth: 0, Time: 1726793063.906463
+URL: https://www.airnewzealand.co.nz, Size: 242141 bytes, Status: 200, Depth: 0, Time: 1726793064.2227392
+URL: https://www.niwa.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793064.2858815
+URL: https://www.sciencekids.co.nz, Size: 0 bytes, Status: None, Depth: 0, Time: 1726793064.3170817
+Message: Failed to fetch content
+URL: https://www.vuw.ac.nz, Size: 85139 bytes, Status: 200, Depth: 0, Time: 1726793064.3508704
+URL: https://www.seek.co.nz, Size: 207644 bytes, Status: 200, Depth: 0, Time: 1726793068.079231
+URL: https://www.nbr.co.nz, Size: 344917 bytes, Status: 200, Depth: 0, Time: 1726793068.4916162
+URL: https://www.lincoln.ac.nz, Size: 699272 bytes, Status: 200, Depth: 0, Time: 1726793068.656139
+URL: https://www.nzpost.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793069.4588933
+URL: https://www.yellow.co.nz, Size: 460578 bytes, Status: 200, Depth: 0, Time: 1726793074.3031623
+URL: https://www.mightyape.co.nz, Size: 826709 bytes, Status: 200, Depth: 0, Time: 1726793074.3875885
+URL: https://www.googlepaycasinos.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793075.3102314
+URL: https://www.wheresthegoldslot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793077.0891201
+URL: https://www.tourism.net.nz, Size: 460578 bytes, Status: 200, Depth: 0, Time: 1726793081.4665961
+URL: https://www.realestate.co.nz, Size: 126137 bytes, Status: 200, Depth: 0, Time: 1726793082.0255566
+URL: https://www.mylotto.co.nz, Size: 29080 bytes, Status: 200, Depth: 0, Time: 1726793082.5472813
+URL: https://www.landcareresearch.co.nz, Size: 116896 bytes, Status: 200, Depth: 0, Time: 1726793085.196984
+URL: https://www.nzcity.co.nz, Size: 61609 bytes, Status: 200, Depth: 0, Time: 1726793085.3103447
+URL: https://www.interest.co.nz, Size: 144866 bytes, Status: 200, Depth: 0, Time: 1726793088.808634
+URL: https://www.voxy.co.nz, Size: 71797 bytes, Status: 200, Depth: 0, Time: 1726793090.4077744
+URL: https://www.orcon.net.nz, Size: 221305 bytes, Status: 200, Depth: 0, Time: 1726793091.2359147
+URL: https://www.geonet.org.nz, Size: 107821 bytes, Status: 200, Depth: 0, Time: 1726793093.3190649
+URL: https://www.eventbrite.co.nz, Size: 140826 bytes, Status: 200, Depth: 0, Time: 1726793093.340699
+URL: https://www.skycityauckland.co.nz, Size: 14196 bytes, Status: 200, Depth: 0, Time: 1726793093.5332868
+URL: https://www.computerworld.co.nz, Size: 253755 bytes, Status: 200, Depth: 0, Time: 1726793095.3907368
+URL: https://www.unitec.ac.nz, Size: 157691 bytes, Status: 200, Depth: 0, Time: 1726793095.6958148
+URL: https://www.igave.co.nz, Size: 8481 bytes, Status: 200, Depth: 0, Time: 1726793096.2550607
+URL: https://www.heartfoundation.org.nz, Size: 51149 bytes, Status: 200, Depth: 0, Time: 1726793099.8957336
+URL: https://www.one.nz, Size: 163907 bytes, Status: 200, Depth: 0, Time: 1726793100.2737758
+URL: https://www.nzdf.mil.nz, Size: 136731 bytes, Status: 200, Depth: 0, Time: 1726793100.8338635
+URL: https://www.wetafx.co.nz, Size: 71465 bytes, Status: 200, Depth: 0, Time: 1726793102.2913935
+URL: https://www.paynplaycasinos.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793102.5094175
+URL: https://www.mentalhealth.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793103.0231004
+URL: https://www.consumer.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793104.892735
+URL: https://www.paypalcasinos.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793107.0178015
+URL: https://www.vodafone.co.nz, Size: 163907 bytes, Status: 200, Depth: 0, Time: 1726793108.2265856
+URL: https://www.anz.co.nz, Size: 340930 bytes, Status: 200, Depth: 0, Time: 1726793109.728008
+URL: https://www.spark.co.nz, Size: 133740 bytes, Status: 200, Depth: 0, Time: 1726793111.907591
+URL: https://www.aa.co.nz, Size: 27401 bytes, Status: 200, Depth: 0, Time: 1726793113.029949
+URL: https://www.healthpoint.co.nz, Size: 18445 bytes, Status: 200, Depth: 0, Time: 1726793113.8930228
+URL: https://www.westpac.co.nz, Size: 129377 bytes, Status: 200, Depth: 0, Time: 1726793115.4430122
+URL: https://www.uniline.co.nz, Size: 30663 bytes, Status: 200, Depth: 0, Time: 1726793115.8523772
+URL: https://www.bungy.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793116.4823267
+URL: https://www.queenstownnz.co.nz, Size: 335682 bytes, Status: 200, Depth: 0, Time: 1726793117.018485
+URL: https://www.wintec.ac.nz, Size: 162325 bytes, Status: 200, Depth: 0, Time: 1726793117.5687032
+URL: https://www.skyline.co.nz, Size: 73199 bytes, Status: 200, Depth: 0, Time: 1726793119.7146068
+URL: https://www.sunlive.co.nz, Size: 66773 bytes, Status: 200, Depth: 0, Time: 1726793124.0825882
+URL: https://www.mpages.co.nz, Size: 39969 bytes, Status: 200, Depth: 0, Time: 1726793124.369222
+URL: https://www.fyi.org.nz, Size: 15845 bytes, Status: 200, Depth: 0, Time: 1726793125.2259483
+URL: https://www.prowzer.co.nz, Size: 31332 bytes, Status: 200, Depth: 0, Time: 1726793125.4225795
+URL: https://www.grantthornton.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793128.2467556
+URL: https://www.thepost.co.nz, Size: 2542 bytes, Status: 200, Depth: 0, Time: 1726793128.5004685
+URL: https://www.hadley.nz, Size: 821891 bytes, Status: 200, Depth: 0, Time: 1726793129.4711888
+URL: https://www.thepress.co.nz, Size: 2546 bytes, Status: 200, Depth: 0, Time: 1726793130.4209244
+URL: https://www.twb.nz, Size: 13076 bytes, Status: 200, Depth: 0, Time: 1726793130.422924
+URL: https://www.cryptopia.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793130.4279242
+URL: https://www.wlug.org.nz, Size: 8803 bytes, Status: 200, Depth: 0, Time: 1726793130.641004
+URL: https://www.sleepfrog.co.nz, Size: 153571 bytes, Status: 200, Depth: 0, Time: 1726793130.742752
+URL: https://www.theassignmenthelp.co.nz, Size: 293474 bytes, Status: 200, Depth: 0, Time: 1726793131.9838626
+URL: https://www.scuttlebutt.nz, Size: 6680 bytes, Status: 200, Depth: 0, Time: 1726793132.774744
+URL: https://www.nzbirdsonline.org.nz, Size: 39179 bytes, Status: 200, Depth: 0, Time: 1726793132.8147733
+URL: https://www.moneycard.co.nz, Size: 4209 bytes, Status: 200, Depth: 0, Time: 1726793137.8827808
+URL: https://www.kiwibank.co.nz, Size: 455965 bytes, Status: 200, Depth: 0, Time: 1726793138.8321903
+URL: https://www.bpac.org.nz, Size: 44529 bytes, Status: 200, Depth: 0, Time: 1726793139.6871085
+URL: https://www.skylinebuildings.co.nz, Size: 315701 bytes, Status: 200, Depth: 0, Time: 1726793139.9791126
+URL: https://www.greens.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793141.706617
+URL: https://www.fishpond.co.nz, Size: 207482 bytes, Status: 200, Depth: 0, Time: 1726793142.4191856
+URL: https://www.thecarpetbarn.co.nz, Size: 12478 bytes, Status: 200, Depth: 0, Time: 1726793142.9563377
+URL: https://www.cafe10th.co.nz, Size: 8663 bytes, Status: 200, Depth: 0, Time: 1726793145.3872936
+URL: https://www.teaonews.co.nz, Size: 162878 bytes, Status: 200, Depth: 0, Time: 1726793146.1918519
+URL: https://www.tv3.co.nz, Size: 41580 bytes, Status: 200, Depth: 0, Time: 1726793148.6887183
+URL: https://www.kidsonboard.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793149.545228
+URL: https://www.getnewlook.co.nz, Size: 39278 bytes, Status: 200, Depth: 0, Time: 1726793150.231355
+URL: https://www.resene.co.nz, Size: 131942 bytes, Status: 200, Depth: 0, Time: 1726793151.0127492
+URL: https://www.klim.co.nz, Size: 91742 bytes, Status: 200, Depth: 0, Time: 1726793152.2619376
+URL: https://www.labour.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793152.6183875
+URL: https://www.neighbourly.co.nz, Size: 28254 bytes, Status: 200, Depth: 0, Time: 1726793152.921095
+URL: https://www.forestandbird.org.nz, Size: 264556 bytes, Status: 200, Depth: 0, Time: 1726793153.2077956
+URL: https://www.intercity.co.nz, Size: 48321 bytes, Status: 200, Depth: 0, Time: 1726793156.9778311
+URL: https://www.reseller.co.nz, Size: 196301 bytes, Status: 200, Depth: 0, Time: 1726793158.4372153
+URL: https://www.onlinepokiesnz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793159.9981053
+URL: https://www.cab.org.nz, Size: 85194 bytes, Status: 200, Depth: 0, Time: 1726793161.1707213
+URL: https://www.ruralwireless.nz, Size: 190866 bytes, Status: 200, Depth: 0, Time: 1726793162.0830882
+URL: https://www.spinbits.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793162.636016
+URL: https://www.penguin.co.nz, Size: 347788 bytes, Status: 200, Depth: 0, Time: 1726793164.0529552
+URL: https://www.dalusionfwx.co.nz, Size: 18585 bytes, Status: 200, Depth: 0, Time: 1726793166.6502209
+URL: https://www.tubidy.ac.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793166.9774811
+URL: https://www.maoriplus.co.nz, Size: 7746 bytes, Status: 200, Depth: 0, Time: 1726793167.3201835
+URL: https://www.theharbour.org.nz, Size: 17552 bytes, Status: 200, Depth: 0, Time: 1726793167.4844406
+URL: https://www.pcworld.co.nz, Size: 183536 bytes, Status: 200, Depth: 0, Time: 1726793171.0340836
+URL: https://www.heritage.org.nz, Size: 42456 bytes, Status: 200, Depth: 0, Time: 1726793171.9439068
+URL: https://www.lorde.co.nz, Size: 41724 bytes, Status: 200, Depth: 0, Time: 1726793174.068545
+URL: https://www.hamiltongardens.co.nz, Size: 141665 bytes, Status: 200, Depth: 0, Time: 1726793174.3072062
+URL: https://www.fireprotection.org.nz, Size: 31098 bytes, Status: 200, Depth: 0, Time: 1726793174.7852361
+URL: https://www.nzme.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793175.0640168
+URL: https://www.matakanacoast.co.nz, Size: 255051 bytes, Status: 200, Depth: 0, Time: 1726793179.6336339
+URL: https://www.stjohn.org.nz, Size: 80498 bytes, Status: 200, Depth: 0, Time: 1726793180.3672779
+URL: https://www.sorted.org.nz, Size: 196672 bytes, Status: 200, Depth: 0, Time: 1726793180.6115825
+URL: https://www.fishingguides.co.nz, Size: 17271 bytes, Status: 200, Depth: 0, Time: 1726793180.8230896
+URL: https://www.pokiesonlinenz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793181.7643795
+URL: https://www.national.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793185.6102695
+URL: https://www.pontconsultants.co.nz, Size: 222 bytes, Status: 200, Depth: 0, Time: 1726793185.6794522
+URL: https://www.interislander.co.nz, Size: 49406 bytes, Status: 200, Depth: 0, Time: 1726793186.1574643
+URL: https://www.aardvark.co.nz, Size: 17537 bytes, Status: 200, Depth: 0, Time: 1726793186.560984
+URL: https://www.lifeline.org.nz, Size: 65270 bytes, Status: 200, Depth: 0, Time: 1726793188.523988
+URL: https://www.aucklandzoo.co.nz, Size: 61274 bytes, Status: 200, Depth: 0, Time: 1726793190.228992
+URL: https://www.dentist.co.nz, Size: 47593 bytes, Status: 200, Depth: 0, Time: 1726793192.8917298
+URL: https://www.mytaxback.co.nz, Size: 7887 bytes, Status: 200, Depth: 0, Time: 1726793193.3401756
+URL: https://www.myweddingguide.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793194.6502836
+URL: https://www.itp.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793196.998678
+URL: https://www.corso.co.nz, Size: 359397 bytes, Status: 200, Depth: 0, Time: 1726793197.9003315
+URL: https://www.methods.co.nz, Size: 114 bytes, Status: 200, Depth: 0, Time: 1726793198.0003796
+URL: https://www.kidshealth.org.nz, Size: 85434 bytes, Status: 200, Depth: 0, Time: 1726793198.2005725
+URL: https://www.olympic.org.nz, Size: 79814 bytes, Status: 200, Depth: 0, Time: 1726793198.461967
+URL: https://www.bayleys.co.nz, Size: 201340 bytes, Status: 200, Depth: 0, Time: 1726793198.8756783
+URL: https://www.webads.co.nz, Size: 5502 bytes, Status: 200, Depth: 0, Time: 1726793199.5465374
+URL: https://www.whitcoulls.co.nz, Size: 369007 bytes, Status: 200, Depth: 0, Time: 1726793200.50158
+URL: https://www.idealog.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793201.1538894
+URL: https://www.yellowfever.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793202.280458
+URL: https://www.chelsea.co.nz, Size: 722733 bytes, Status: 200, Depth: 0, Time: 1726793203.140865
+URL: https://www.salvationarmy.org.nz, Size: 287837 bytes, Status: 200, Depth: 0, Time: 1726793204.1342494
+URL: https://www.vuwpgsa.ac.nz, Size: 110980 bytes, Status: 200, Depth: 0, Time: 1726793207.948107
+URL: https://www.christchurchartgallery.org.nz, Size: 31933 bytes, Status: 200, Depth: 0, Time: 1726793208.300391
+URL: https://www.citymedphysio.co.nz, Size: 41718 bytes, Status: 200, Depth: 0, Time: 1726793209.057015
+URL: https://www.christchurchairport.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793209.0944297
+URL: https://www.sit.ac.nz, Size: 316268 bytes, Status: 200, Depth: 0, Time: 1726793209.61036
+URL: https://www.driven.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793211.235786
+URL: https://www.thehits.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793212.5561187
+URL: https://www.farmers.co.nz, Size: 243341 bytes, Status: 200, Depth: 0, Time: 1726793213.8477547
+URL: https://www.starship.org.nz, Size: 354305 bytes, Status: 200, Depth: 0, Time: 1726793214.147529
+URL: https://www.actionstation.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793214.3777013
+URL: https://www.lakewanaka.co.nz, Size: 197986 bytes, Status: 200, Depth: 0, Time: 1726793214.8945382
+URL: https://www.airnz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793218.146123
+URL: https://www.nzfootball.co.nz, Size: 280993 bytes, Status: 200, Depth: 0, Time: 1726793218.6990044
+URL: https://www.magic.co.nz, Size: 132372 bytes, Status: 200, Depth: 0, Time: 1726793219.9692166
+URL: https://www.brother.co.nz, Size: 149312 bytes, Status: 200, Depth: 0, Time: 1726793221.3488996
+URL: https://www.dairynz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793221.7171962
+URL: https://www.immune.org.nz, Size: 132671 bytes, Status: 200, Depth: 0, Time: 1726793222.0752223
+URL: https://www.manukau.ac.nz, Size: 100370 bytes, Status: 200, Depth: 0, Time: 1726793223.0017838
+URL: https://www.ara.ac.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793223.4406593
+URL: https://www.oxfam.org.nz, Size: 192683 bytes, Status: 200, Depth: 0, Time: 1726793225.3802202
+URL: https://www.nziff.co.nz, Size: 85635 bytes, Status: 200, Depth: 0, Time: 1726793227.5618448
+URL: https://www.iesnz.co.nz, Size: 47282 bytes, Status: 200, Depth: 0, Time: 1726793227.7000687
+URL: https://www.jbhifi.co.nz, Size: 668885 bytes, Status: 200, Depth: 0, Time: 1726793231.0774345
+URL: https://www.nzfilm.co.nz, Size: 92125 bytes, Status: 200, Depth: 0, Time: 1726793232.119214
+URL: https://www.flatrock.org.nz, Size: 99943 bytes, Status: 200, Depth: 0, Time: 1726793232.888007
+URL: https://www.sportnz.org.nz, Size: 66854 bytes, Status: 200, Depth: 0, Time: 1726793233.700414
+URL: https://www.theeducationhub.org.nz, Size: 395794 bytes, Status: 200, Depth: 0, Time: 1726793237.6772604
+URL: https://www.constructionnews.co.nz, Size: 112831 bytes, Status: 200, Depth: 0, Time: 1726793238.3017697
+URL: https://www.discoverycorporate.co.nz, Size: 41580 bytes, Status: 200, Depth: 0, Time: 1726793238.9970992
+URL: https://www.compassnzl.co.nz, Size: 53657 bytes, Status: 200, Depth: 0, Time: 1726793240.9142354
+URL: https://www.whalewatch.co.nz, Size: 41830 bytes, Status: 200, Depth: 0, Time: 1726793241.5467002
+URL: https://www.harveynorman.co.nz, Size: 212 bytes, Status: 200, Depth: 0, Time: 1726793246.2744863
+URL: https://www.meridianenergy.co.nz, Size: 138336 bytes, Status: 200, Depth: 0, Time: 1726793247.3008816
+URL: https://www.toyota.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793248.1437626
+URL: https://www.paperplus.co.nz, Size: 193388 bytes, Status: 200, Depth: 0, Time: 1726793249.6305995
+URL: https://www.nzcer.org.nz, Size: 21865 bytes, Status: 200, Depth: 0, Time: 1726793250.6033564
+URL: https://www.torpedo7.co.nz, Size: 592167 bytes, Status: 200, Depth: 0, Time: 1726793251.7916086
+URL: https://www.telecom.co.nz, Size: 133736 bytes, Status: 200, Depth: 0, Time: 1726793254.494736
+URL: https://www.oneroof.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 1, Time: 1726793256.2612026
+URL: https://www.webstock.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793257.154423
+URL: https://www.greatjourneysofnz.co.nz, Size: 199800 bytes, Status: 200, Depth: 0, Time: 1726793258.143033
+URL: https://www.theedge.co.nz, Size: 291596 bytes, Status: 200, Depth: 0, Time: 1726793259.0094903
+URL: https://www.nzmaths.co.nz, Size: 4151 bytes, Status: 200, Depth: 0, Time: 1726793260.6930463
+URL: https://www.nzgbc.org.nz, Size: 117777 bytes, Status: 200, Depth: 0, Time: 1726793262.1427643
+URL: https://www.nzc.nz, Size: 17667 bytes, Status: 200, Depth: 0, Time: 1726793262.9798703
+URL: https://www.metlink.org.nz, Size: 4204 bytes, Status: 200, Depth: 0, Time: 1726793265.7684011
+URL: https://www.waiotapu.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793265.7875192
+URL: https://www.archipro.co.nz, Size: 1191521 bytes, Status: 200, Depth: 0, Time: 1726793266.293062
+URL: https://www.nz-casinoonline.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793267.9210806
+URL: https://www.wellingtonairport.co.nz, Size: 123321 bytes, Status: 200, Depth: 0, Time: 1726793271.6271348
+URL: https://www.metroinfo.co.nz, Size: 49353 bytes, Status: 200, Depth: 0, Time: 1726793272.7200847
+URL: https://www.press.co.nz, Size: 2546 bytes, Status: 200, Depth: 0, Time: 1726793273.8910637
+URL: https://www.nzpcn.org.nz, Size: 53757 bytes, Status: 200, Depth: 0, Time: 1726793274.5190437
+URL: https://www.people4success.co.nz, Size: 147544 bytes, Status: 200, Depth: 0, Time: 1726793276.5520816
+URL: https://www.barnesoysters.co.nz, Size: 9627 bytes, Status: 200, Depth: 0, Time: 1726793280.2356317
+URL: https://www.waikatotimes.co.nz, Size: 2565 bytes, Status: 200, Depth: 0, Time: 1726793280.815873
+URL: https://www.hdc.org.nz, Size: 75465 bytes, Status: 200, Depth: 0, Time: 1726793281.0057003
+URL: https://www.mcnz.org.nz, Size: 41157 bytes, Status: 200, Depth: 0, Time: 1726793281.9806485
+URL: https://www.thestandard.org.nz, Size: 465943 bytes, Status: 200, Depth: 0, Time: 1726793282.5596213
+URL: https://www.radiolive.co.nz, Size: 132372 bytes, Status: 200, Depth: 0, Time: 1726793283.66072
+URL: https://www.tikatangata.org.nz, Size: 32039 bytes, Status: 200, Depth: 0, Time: 1726793284.0379894
+URL: https://www.branz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793284.5946941
+URL: https://www.bluebridge.co.nz, Size: 69153 bytes, Status: 200, Depth: 0, Time: 1726793290.7601583
+URL: https://www.mcdonalds.co.nz, Size: 113378 bytes, Status: 200, Depth: 0, Time: 1726793290.8957765
+URL: https://www.ruralnewsgroup.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793291.2134893
+URL: https://www.whitepages.co.nz, Size: 67647 bytes, Status: 200, Depth: 0, Time: 1726793291.9870906
+URL: https://www.therock.net.nz, Size: 270693 bytes, Status: 200, Depth: 0, Time: 1726793292.7011108
+URL: https://www.janter.co.nz, Size: 5396 bytes, Status: 200, Depth: 0, Time: 1726793293.1980734
+URL: https://www.morefm.co.nz, Size: 262152 bytes, Status: 200, Depth: 0, Time: 1726793293.73226
+URL: https://www.4tradeit.co.nz, Size: 80308 bytes, Status: 200, Depth: 0, Time: 1726793293.7772503
+URL: https://www.houzz.co.nz, Size: 1427552 bytes, Status: 200, Depth: 0, Time: 1726793296.2966032
+URL: https://www.fishandgame.org.nz, Size: 500711 bytes, Status: 200, Depth: 0, Time: 1726793296.7030776
+URL: https://www.stoppress.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793297.5897183
+URL: https://www.christchurchattractions.nz, Size: 117445 bytes, Status: 200, Depth: 0, Time: 1726793298.4587474
+URL: https://www.moneyhub.co.nz, Size: 959530 bytes, Status: 200, Depth: 0, Time: 1726793298.6775606
+URL: https://www.sexualwellbeing.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793301.7966442
+URL: https://www.christchurchcasino.co.nz, Size: 74209 bytes, Status: 200, Depth: 0, Time: 1726793302.4960964
+URL: https://www.onlinegamblingcasino.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793303.3775132
+URL: https://www.wiredmail.co.nz, Size: 7534 bytes, Status: 200, Depth: 0, Time: 1726793307.498441
+URL: https://www.audioculture.co.nz, Size: 36991 bytes, Status: 200, Depth: 0, Time: 1726793307.523007
+URL: https://www.kiwifamilies.co.nz, Size: 279716 bytes, Status: 200, Depth: 0, Time: 1726793308.101686
+URL: https://www.drivencarguide.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793308.5456083
+URL: https://www.treasurebox.co.nz, Size: 237080 bytes, Status: 200, Depth: 0, Time: 1726793309.1571589
+URL: https://www.tia.org.nz, Size: 33890 bytes, Status: 200, Depth: 0, Time: 1726793312.0360668
+URL: https://www.iceberg.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793312.851107
+URL: https://www.cio.co.nz, Size: 219033 bytes, Status: 200, Depth: 0, Time: 1726793313.383114
+URL: https://www.quitegoodfood.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793313.6958444
+URL: https://www.kiwirail.co.nz, Size: 43024 bytes, Status: 200, Depth: 0, Time: 1726793313.8354514
+URL: https://www.seafriends.org.nz, Size: 30359 bytes, Status: 200, Depth: 0, Time: 1726793316.8352768
+URL: https://www.familyplanning.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793316.9900746
+URL: https://www.plunket.org.nz, Size: 131776 bytes, Status: 200, Depth: 0, Time: 1726793318.4804769
+URL: https://www.healthpost.co.nz, Size: 1654512 bytes, Status: 200, Depth: 0, Time: 1726793320.9402587
+URL: https://www.lakehousearts.org.nz, Size: 17366 bytes, Status: 200, Depth: 0, Time: 1726793322.8045595
+URL: https://www.topomap.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793323.074723
+URL: https://www.dogsnz.org.nz, Size: 40665 bytes, Status: 200, Depth: 0, Time: 1726793323.9622023
+URL: https://www.times.co.nz, Size: 425142 bytes, Status: 200, Depth: 0, Time: 1726793324.6050358
+URL: https://www.iticket.co.nz, Size: 76451 bytes, Status: 200, Depth: 0, Time: 1726793324.8965683
+URL: https://www.slingshot.co.nz, Size: 55379 bytes, Status: 200, Depth: 0, Time: 1726793325.8988976
+URL: https://www.chorus.co.nz, Size: 1376 bytes, Status: 200, Depth: 0, Time: 1726793326.703743
+URL: https://www.transpower.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793328.1298778
+URL: https://www.indianweekender.co.nz, Size: 834610 bytes, Status: 200, Depth: 0, Time: 1726793328.8188787
+URL: https://www.cloudybay.co.nz, Size: 315331 bytes, Status: 200, Depth: 0, Time: 1726793330.8643806
+URL: https://www.redarchitecture.co.nz, Size: 15010 bytes, Status: 200, Depth: 0, Time: 1726793334.8575237
+URL: https://www.tongarirocrossing.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793338.6145403
+URL: https://www.top10.co.nz, Size: 186621 bytes, Status: 200, Depth: 0, Time: 1726793339.3831086
+URL: https://www.embroidme.co.nz, Size: 421264 bytes, Status: 200, Depth: 0, Time: 1726793339.5995462
+URL: https://www.umf.org.nz, Size: 111524 bytes, Status: 200, Depth: 0, Time: 1726793340.4694679
+URL: https://www.act.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793341.8481534
+URL: https://www.folksong.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793342.5076942
+URL: https://www.bookme.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793342.771142
+URL: https://www.db.co.nz, Size: 22103 bytes, Status: 200, Depth: 0, Time: 1726793344.4793081
+URL: https://www.polynesianspa.co.nz, Size: 871192 bytes, Status: 200, Depth: 0, Time: 1726793346.681102
+URL: https://www.whittakers.co.nz, Size: 19719 bytes, Status: 200, Depth: 0, Time: 1726793347.4840019
+URL: https://www.rankers.co.nz, Size: 76441 bytes, Status: 200, Depth: 0, Time: 1726793349.1740708
+URL: https://www.jcaccounting.co.nz, Size: 69467 bytes, Status: 200, Depth: 0, Time: 1726793349.730105
+URL: https://www.stuartcarlyon.co.nz, Size: 27029 bytes, Status: 200, Depth: 0, Time: 1726793350.1616151
+URL: https://www.nzoss.nz, Size: 58961 bytes, Status: 200, Depth: 0, Time: 1726793351.8439028
+URL: https://www.watercare.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793352.5759494
+URL: https://www.vegetables.co.nz, Size: 38715 bytes, Status: 200, Depth: 0, Time: 1726793353.0221307
+URL: https://www.onlineblackjack.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793356.6825619
+URL: https://www.hermitage.co.nz, Size: 366674 bytes, Status: 200, Depth: 0, Time: 1726793357.0084422
+URL: https://www.scene.co.nz, Size: 86240 bytes, Status: 200, Depth: 0, Time: 1726793357.7708614
+URL: https://www.foodlovers.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793358.8678288
+URL: https://www.sustainable.org.nz, Size: 179465 bytes, Status: 200, Depth: 0, Time: 1726793361.587754
+URL: https://www.nzia.co.nz, Size: 72352 bytes, Status: 200, Depth: 0, Time: 1726793362.2109637
+URL: https://www.amnesty.org.nz, Size: 225040 bytes, Status: 200, Depth: 0, Time: 1726793365.4695647
+URL: https://www.elsewhere.co.nz, Size: 76452 bytes, Status: 200, Depth: 0, Time: 1726793365.4695647
+URL: https://www.bestawards.co.nz, Size: 1221146 bytes, Status: 200, Depth: 0, Time: 1726793365.819791
+URL: https://www.moshtix.co.nz, Size: 39171 bytes, Status: 200, Depth: 0, Time: 1726793366.7833755
+URL: https://www.smartmarine.co.nz, Size: 313471 bytes, Status: 200, Depth: 0, Time: 1726793368.5344067
+URL: https://www.bonvoyage.co.nz, Size: 512354 bytes, Status: 200, Depth: 0, Time: 1726793371.2113917
+URL: https://www.aucklandlive.co.nz, Size: 77552 bytes, Status: 200, Depth: 0, Time: 1726793371.4042125
+URL: https://www.1737.org.nz, Size: 15151 bytes, Status: 200, Depth: 0, Time: 1726793371.4612722
+URL: https://www.genesisenergy.co.nz, Size: 43130 bytes, Status: 200, Depth: 0, Time: 1726793372.4272187
+URL: https://www.otagomuseum.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793373.6746833
+URL: https://www.metromag.co.nz, Size: 279106 bytes, Status: 200, Depth: 0, Time: 1726793375.107444
+URL: https://www.kmart.co.nz, Size: 1029881 bytes, Status: 200, Depth: 0, Time: 1726793375.3015172
+URL: https://www.kathmandu.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793377.0333765
+URL: https://www.infonews.co.nz, Size: 134586 bytes, Status: 200, Depth: 0, Time: 1726793378.4317157
+URL: https://www.resn.co.nz, Size: 5825 bytes, Status: 200, Depth: 0, Time: 1726793378.5688555
+URL: https://www.holidayhouses.co.nz, Size: 18883 bytes, Status: 200, Depth: 0, Time: 1726793378.7347302
+URL: https://www.liturgy.co.nz, Size: 210366 bytes, Status: 200, Depth: 0, Time: 1726793379.2737324
+URL: https://www.ucol.ac.nz, Size: 94559 bytes, Status: 200, Depth: 0, Time: 1726793380.2120023
+URL: https://www.womensrefuge.org.nz, Size: 143454 bytes, Status: 200, Depth: 0, Time: 1726793383.3154027
+URL: https://www.thewireless.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793383.8000894
+URL: https://www.skysportnow.co.nz, Size: 3675 bytes, Status: 200, Depth: 0, Time: 1726793384.8093073
+URL: https://www.adam.nz, Size: 101000 bytes, Status: 200, Depth: 0, Time: 1726793387.4536293
+URL: https://www.z.co.nz, Size: 34859 bytes, Status: 200, Depth: 0, Time: 1726793387.8541858
+URL: https://www.voyager.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793388.247236
+URL: https://www.wwf.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793390.688356
+URL: https://www.jaycar.co.nz, Size: 353072 bytes, Status: 200, Depth: 0, Time: 1726793390.7153826
+URL: https://www.myelin.co.nz, Size: 5332 bytes, Status: 200, Depth: 0, Time: 1726793392.6083367
+URL: https://www.nzso.co.nz, Size: 124781 bytes, Status: 200, Depth: 0, Time: 1726793393.5075245
+URL: https://www.catholic.org.nz, Size: 53099 bytes, Status: 200, Depth: 0, Time: 1726793395.1691375
+URL: https://www.twinkl.co.nz, Size: 212 bytes, Status: 200, Depth: 0, Time: 1726793396.5689857
+URL: https://www.waitangi.org.nz, Size: 91189 bytes, Status: 200, Depth: 0, Time: 1726793398.9122443
+URL: https://www.xlx299.nz, Size: 33237 bytes, Status: 200, Depth: 0, Time: 1726793399.3374953
+URL: https://www.westcoast.co.nz, Size: 92665 bytes, Status: 200, Depth: 0, Time: 1726793400.7658472
+URL: https://www.maritimemuseum.co.nz, Size: 62602 bytes, Status: 200, Depth: 0, Time: 1726793402.0596864
+URL: https://www.fanboy.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793402.123204
+URL: https://www.pwc.co.nz, Size: 175941 bytes, Status: 200, Depth: 0, Time: 1726793402.7498605
+URL: https://www.gogo.co.nz, Size: 951 bytes, Status: 200, Depth: 0, Time: 1726793402.8869004
+URL: https://www.plantandfood.co.nz, Size: 60843 bytes, Status: 200, Depth: 0, Time: 1726793404.452182
+URL: https://www.pokiesonlinenz.net.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793406.0124824
+URL: https://www.weatherwatch.co.nz, Size: 372040 bytes, Status: 200, Depth: 0, Time: 1726793406.3332367
+URL: https://www.kaikoura.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793406.924216
+URL: https://www.casinoreviews.net.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793407.600332
+URL: https://www.bluishcoder.co.nz, Size: 75358 bytes, Status: 200, Depth: 0, Time: 1726793409.5521243
+URL: https://www.unicef.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793409.6831527
+URL: https://www.lairweb.org.nz, Size: 0 bytes, Status: None, Depth: 0, Time: 1726793409.8149836
+Message: Failed to fetch content
+URL: https://www.universitiesnz.ac.nz, Size: 31020 bytes, Status: 200, Depth: 0, Time: 1726793410.3634508
+URL: https://www.sounz.org.nz, Size: 57977 bytes, Status: 200, Depth: 0, Time: 1726793415.2707717
+URL: https://www.nzier.org.nz, Size: 269096 bytes, Status: 200, Depth: 0, Time: 1726793415.5525177
+URL: https://www.bite.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793416.6014102
+URL: https://www.milford-sound.co.nz, Size: 94294 bytes, Status: 200, Depth: 0, Time: 1726793416.8297687
+URL: https://www.larnachcastle.co.nz, Size: 41390 bytes, Status: 200, Depth: 0, Time: 1726793417.8181372
+URL: https://www.rewardhub.co.nz, Size: 114 bytes, Status: 200, Depth: 0, Time: 1726793417.866158
+URL: https://www.questrecruitment.co.nz, Size: 345515 bytes, Status: 200, Depth: 0, Time: 1726793420.7674718
+URL: https://www.bwb.co.nz, Size: 19127 bytes, Status: 200, Depth: 0, Time: 1726793422.461199
+URL: https://www.garageproject.co.nz, Size: 150180 bytes, Status: 200, Depth: 0, Time: 1726793423.529566
+URL: https://www.theremarkables.co.nz, Size: 195245 bytes, Status: 200, Depth: 0, Time: 1726793424.7933884
+URL: https://www.gorentals.co.nz, Size: 259402 bytes, Status: 200, Depth: 0, Time: 1726793425.0579598
+URL: https://www.wellingtoncablecar.co.nz, Size: 52533 bytes, Status: 200, Depth: 0, Time: 1726793425.9722545
+URL: https://www.breastcancerfoundation.org.nz, Size: 230889 bytes, Status: 200, Depth: 0, Time: 1726793427.894995
+URL: https://www.yates.co.nz, Size: 103438 bytes, Status: 200, Depth: 0, Time: 1726793428.1234944
+URL: https://www.wheelers.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793428.983187
+URL: https://www.ngataonga.org.nz, Size: 50873 bytes, Status: 200, Depth: 0, Time: 1726793431.6764498
+URL: https://www.ohbaby.co.nz, Size: 1113949 bytes, Status: 200, Depth: 0, Time: 1726793431.7139838
+URL: https://www.chemistry.co.nz, Size: 45174 bytes, Status: 200, Depth: 0, Time: 1726793433.2071822
+URL: https://www.comfusion.co.nz, Size: 243 bytes, Status: 200, Depth: 0, Time: 1726793434.784058
+URL: https://www.heartofthecity.co.nz, Size: 297348 bytes, Status: 200, Depth: 0, Time: 1726793436.775181
+URL: https://www.presbyterian.org.nz, Size: 89780 bytes, Status: 200, Depth: 0, Time: 1726793437.1065218
+URL: https://www.innovatechange.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793438.449567
+URL: https://www.moorewilsons.co.nz, Size: 53731 bytes, Status: 200, Depth: 0, Time: 1726793439.86718
+URL: https://www.neato.co.nz, Size: 137057 bytes, Status: 200, Depth: 0, Time: 1726793440.3330293
+URL: https://www.motat.org.nz, Size: 207384 bytes, Status: 200, Depth: 0, Time: 1726793441.6042073
+URL: https://www.psychology.org.nz, Size: 61030 bytes, Status: 200, Depth: 0, Time: 1726793441.7889175
+URL: https://www.motat.nz, Size: 207384 bytes, Status: 200, Depth: 0, Time: 1726793442.0268524
+URL: https://www.galaxyno.nz, Size: 34578 bytes, Status: 200, Depth: 0, Time: 1726793442.3567035
+URL: https://www.netellercasinos.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793442.9054034
+URL: https://www.canterbury.ac.nz, Size: 259790 bytes, Status: 200, Depth: 0, Time: 1726793445.7171865
+URL: https://www.massey.ac.nz, Size: 66675 bytes, Status: 200, Depth: 0, Time: 1726793446.8336744
+URL: https://www.sciencelearn.org.nz, Size: 42341 bytes, Status: 200, Depth: 0, Time: 1726793447.2191007
+URL: https://www.1news.co.nz, Size: 2680763 bytes, Status: 200, Depth: 0, Time: 1726793450.513578
+URL: https://www.givealittle.co.nz, Size: 0 bytes, Status: None, Depth: 0, Time: 1726793454.6002636
+Message: Failed to fetch content
+URL: https://www.applepaycasino.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793488.3379228
+URL: https://www.horsetalk.co.nz, Size: 178619 bytes, Status: 200, Depth: 0, Time: 1726793489.2121937
+URL: https://www.pledgeme.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793489.8068335
+URL: https://www.acc.co.nz, Size: 150028 bytes, Status: 200, Depth: 0, Time: 1726793496.7413216
+URL: https://www.thewarehouse.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793497.489865
+URL: https://www.healthnavigator.org.nz, Size: 66937 bytes, Status: 200, Depth: 0, Time: 1726793501.4579308
+URL: https://www.flicks.co.nz, Size: 551754 bytes, Status: 200, Depth: 0, Time: 1726793502.2174466
+URL: https://www.localnewspapers.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793503.2787259
+URL: https://www.aucklandairport.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793504.4454865
+URL: https://www.sky.co.nz, Size: 11084 bytes, Status: 200, Depth: 0, Time: 1726793507.0443177
+URL: https://www.royalsociety.org.nz, Size: 47590 bytes, Status: 200, Depth: 0, Time: 1726793511.871546
+URL: https://www.nzhuntingandshooting.co.nz, Size: 106022 bytes, Status: 200, Depth: 0, Time: 1726793511.8845518
+URL: https://www.logick.co.nz, Size: 0 bytes, Status: 200, Depth: 0, Time: 1726793512.7135575
+Message: Failed to fetch content
+URL: https://www.storestuff.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793515.8181667
+URL: https://www.redcross.org.nz, Size: 252020 bytes, Status: 200, Depth: 0, Time: 1726793520.8137202
+URL: https://www.nzdoctor.co.nz, Size: 204120 bytes, Status: 200, Depth: 0, Time: 1726793521.6746385
+URL: https://www.lawsociety.org.nz, Size: 119391 bytes, Status: 200, Depth: 0, Time: 1726793524.741093
+URL: https://www.fireandemergency.nz, Size: 125632 bytes, Status: 200, Depth: 0, Time: 1726793525.0710852
+URL: https://www.southerncross.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793526.460876
+URL: https://www.realjourneys.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793530.8635626
+URL: https://www.2degrees.nz, Size: 204854 bytes, Status: 200, Depth: 0, Time: 1726793534.6133857
+URL: https://www.1stdomains.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793538.2828228
+URL: https://www.op.ac.nz, Size: 291358 bytes, Status: 200, Depth: 0, Time: 1726793538.9666164
+URL: https://www.hrc.co.nz, Size: 32039 bytes, Status: 200, Depth: 0, Time: 1726793547.8051395
+URL: https://www.gra.co.nz, Size: 193113 bytes, Status: 200, Depth: 0, Time: 1726793549.7612522
+URL: https://www.businessdesk.co.nz, Size: 306698 bytes, Status: 200, Depth: 0, Time: 1726793550.0325818
+URL: https://www.fiordland.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793552.9812746
+URL: https://www.undertheradar.co.nz, Size: 0 bytes, Status: None, Depth: 0, Time: 1726793553.5615358
+Message: Failed to fetch content
+URL: https://www.fullers.co.nz, Size: 118262 bytes, Status: 200, Depth: 0, Time: 1726793555.4727314
+URL: https://www.kiwiblog.co.nz, Size: 242729 bytes, Status: 200, Depth: 0, Time: 1726793556.0158143
+URL: https://www.noelleeming.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793557.9091258
+URL: https://www.viva.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793560.2314522
+URL: https://www.drugfoundation.org.nz, Size: 32721 bytes, Status: 200, Depth: 0, Time: 1726793560.5277162
+URL: https://www.expireddomains.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793562.170014
+URL: https://www.apia.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793564.7360198
+URL: https://www.dnc.org.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793567.1186876
+URL: https://www.icasinoreviews.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793568.7098143
+URL: https://www.threenow.co.nz, Size: 14267 bytes, Status: 200, Depth: 0, Time: 1726793570.7170436
+URL: https://www.barfoot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793578.445635
+URL: https://www.nzrugby.co.nz, Size: 71158 bytes, Status: 200, Depth: 0, Time: 1726793579.3072686
+URL: https://www.openpolytechnic.ac.nz, Size: 238157 bytes, Status: 200, Depth: 0, Time: 1726793582.5183952
+URL: https://www.communitylaw.org.nz, Size: 165023 bytes, Status: 200, Depth: 0, Time: 1726793588.8394246
+URL: https://www.weddingwise.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793593.0876322
+URL: https://www.inres.co.nz, Size: 69599 bytes, Status: 200, Depth: 0, Time: 1726793594.2899723
+URL: https://www.kiwiprint.co.nz, Size: 127442 bytes, Status: 200, Depth: 0, Time: 1726793596.1221814
+URL: https://www.teararoa.org.nz, Size: 244064 bytes, Status: 200, Depth: 0, Time: 1726793596.9058535
+URL: https://www.whitireiaweltec.ac.nz, Size: 75744 bytes, Status: 200, Depth: 0, Time: 1726793597.3426273
+URL: https://www.agresearch.co.nz, Size: 170816 bytes, Status: 200, Depth: 0, Time: 1726793597.9164176
+URL: https://www.timarucourier.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793599.558225
+URL: https://www.onlinebettingnz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793604.3252108
+URL: https://www.okgiftshop.co.nz, Size: 33810 bytes, Status: 200, Depth: 0, Time: 1726793605.2080548
+URL: https://www.thecoast.net.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793609.087589
+URL: https://www.architecturenow.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793610.6905444
+URL: https://www.yha.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793612.1534038
+URL: https://www.2degreesmobile.co.nz, Size: 204854 bytes, Status: 200, Depth: 0, Time: 1726793612.822732
+URL: https://www.lgnz.co.nz, Size: 32983 bytes, Status: 200, Depth: 0, Time: 1726793615.5352805
+URL: https://www.farmersweekly.co.nz, Size: 340874 bytes, Status: 200, Depth: 0, Time: 1726793617.872682
+URL: https://www.thebigidea.nz, Size: 170252 bytes, Status: 200, Depth: 0, Time: 1726793622.4470282
+URL: https://www.armymuseum.co.nz, Size: 55462 bytes, Status: 200, Depth: 0, Time: 1726793624.631024
+URL: https://www.pricespy.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793629.7837207
+URL: https://www.newzealandcasinos.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793633.0300164
+URL: https://www.macpac.co.nz, Size: 186018 bytes, Status: 200, Depth: 0, Time: 1726793633.6076055
+URL: https://www.casinoslots.co.nz, Size: 186292 bytes, Status: 200, Depth: 0, Time: 1726793636.6004074
+URL: https://www.savethekiwi.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793636.7204099
+URL: https://www.cancer.org.nz, Size: 301744 bytes, Status: 200, Depth: 0, Time: 1726793637.16262
+URL: https://www.reinz.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793644.91519
+URL: https://www.officemax.co.nz, Size: 290203 bytes, Status: 200, Depth: 0, Time: 1726793645.2390661
+URL: https://www.grabone.co.nz, Size: 90136 bytes, Status: 200, Depth: 0, Time: 1726793646.4721682
+URL: https://www.muzic.net.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793646.5560973
+URL: https://www.kellytarltons.co.nz, Size: 179196 bytes, Status: 200, Depth: 0, Time: 1726793652.1854606
+URL: https://www.vector.co.nz, Size: 102357 bytes, Status: 200, Depth: 0, Time: 1726793656.7637208
+URL: https://www.coronetpeak.co.nz, Size: 151809 bytes, Status: 200, Depth: 1, Time: 1726793659.5625384
+URL: https://www.superliquor.co.nz, Size: 71563 bytes, Status: 200, Depth: 0, Time: 1726793659.840146
+URL: https://www.poal.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726793662.6784868
+URL: https://www.mega.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726794711.8173988
+URL: https://www.google.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726794712.2162766
+URL: https://www.nzherald.co.nz, Size: 2099086 bytes, Status: 200, Depth: 0, Time: 1726794712.4302278
+URL: https://www.stuff.co.nz, Size: 2884 bytes, Status: 200, Depth: 0, Time: 1726794712.4342275
+URL: https://www.rnz.co.nz, Size: 151708 bytes, Status: 200, Depth: 0, Time: 1726794713.635042
+URL: https://www.auckland.ac.nz, Size: 252040 bytes, Status: 200, Depth: 0, Time: 1726794713.9726932
+URL: https://www.otago.ac.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726794714.1397586
+URL: https://www.scoop.co.nz, Size: 88096 bytes, Status: 200, Depth: 0, Time: 1726794714.6700022
+URL: https://www.tvnz.co.nz, Size: 6646 bytes, Status: 200, Depth: 0, Time: 1726794715.2578766
+URL: https://www.mega.co.nz, Size: 554 bytes, Status: 200, Depth: 0, Time: 1726794715.4042244
+URL: https://www.waikato.ac.nz, Size: 293860 bytes, Status: 200, Depth: 0, Time: 1726794717.0157442
+URL: https://www.newshub.co.nz, Size: 45982 bytes, Status: 200, Depth: 0, Time: 1726794717.2728903
+URL: https://www.kiwislot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726794718.1932797
+URL: https://www.wgtn.ac.nz, Size: 85139 bytes, Status: 200, Depth: 0, Time: 1726794719.6489062
+URL: https://www.blogspot.co.nz, Size: 0 bytes, Status: Blocked by robots.txt, Depth: 0, Time: 1726794720.04572
+URL: https://www.radionz.co.nz, Size: 151708 bytes, Status: 200, Depth: 0, Time: 1726794720.3495936
