@@ -6,13 +6,18 @@ from urllib.error import HTTPError, URLError
 import socket
 
 
-def log_url_info(url, size, status_code, depth, message=None):
+import time
+
+def log_url_info(url, size, status_code, depth, log_filename, message=None):
     """记录URL访问日志信息，带有可选的message参数"""
-    with open('crawl_log.txt', 'a', encoding='utf-8') as log_file:
-        log_file.write(f"URL: {url}, Size: {size} bytes, Status: {status_code}, Depth: {depth}, Time: {time.localtime(time.time())}\n")
+    # 获取当前时间并格式化为 "YYYY-MM-DD HH:MM:SS"
+    current_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+    with open(log_filename, 'a', encoding='utf-8') as log_file:
+        log_file.write(f"URL: {url}, Size: {size} bytes, Status: {status_code}, Depth: {depth}, Time: {current_time}\n")
         if message:
             log_file.write(f"Message: {message}\n")
-        #log_file.write("\n")
+
 
 
 def is_nz_domain(url):
@@ -86,3 +91,13 @@ def save_content_to_file(url, content, output_dir='crawled_pages'):
         print(f"Saved content from {url} to {file_path}")
     except Exception as e:
         print(f"Error saving content for {url}: {e}")
+
+def save_seed_set_to_file(seed_set, filename):
+    """将种子集合保存到文本文件"""
+    try:
+        with open(filename, 'w', encoding='utf-8') as f:
+            for url in seed_set:
+                f.write(url + '\n')
+        print(f"Seed set saved to {filename}")
+    except Exception as e:
+        print(f"Error saving seed set to {filename}: {e}")
