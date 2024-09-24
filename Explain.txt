@@ -1,0 +1,48 @@
+Function Purpose:
+The log_url_info function is designed to record information about each URL that your web crawler visits. It logs details such as the URL itself, the size of the page, the HTTP status code, the depth of the URL in the crawl, and an optional message. The log is saved in a text file (crawl_log.txt).
+
+How It Works:
+The crawler works by following these steps:
+1. Seed Set Initialization: The program reads the nz_domain_seeds_list.txt file and randomly selects 20 URLs as the seed set. It generates two independent seed sets and saves them in seed_set_1.txt and seed_set_2.txt.
+2. Multithreaded Crawling: The program uses Python’s ThreadPoolExecutor to create a thread pool, where each thread is responsible for crawling one URL at a time. By default, up to 30 threads can run concurrently, which can be controlled via the max_workers parameter.
+3. Page Fetching and Parsing: The fetcher.py handles the HTTP requests to fetch page content, and the parser.py extracts the links from the HTML content.
+4. robots.txt Handling: The program respects the robots.txt rules of each website by checking the robots.txt file before crawling any page.
+5. Queue Management and Depth Tracking: The program uses a breadth-first search (BFS) strategy to crawl pages, storing URLs in a queue and tracking the depth of each URL.
+6. Logging and Statistics: The program logs each crawled page’s URL, size, HTTP status code, depth, and the time it was crawled. Once crawling is complete, it outputs statistics such as total pages crawled, total size of pages, time taken, and the number of 404 errors encountered.
+
+Errors or Unimplemented Features:
+1. URL Redirection: The program may not always handle multiple redirections properly, and may fail to resolve the final destination URL.
+2. MIME Type Filtering: The program may sometimes crawl non-text/html pages if the MIME type detection is incorrect.
+3. Incomplete Parsing: Pages that rely heavily on JavaScript or dynamic content loading may not be fully parsed, and links from such pages may not be crawled.
+
+Additional Resources and Third-Party Libraries:
+1. requests: Used to send HTTP requests and fetch page content.
+2. BeautifulSoup (bs4): Used to parse HTML documents and extract links.
+3. urllib3: Used to handle URL requests and errors.
+
+Logging Information: The function opens a file named crawl_log.txt in append mode ('a'), which allows it to write new entries to the end of the file without overwriting existing content. For each URL, it writes a log entry that includes the following information:
+
+Optional Special Features Implemented:
+1. Multithreaded Crawling: The program uses Python’s ThreadPoolExecutor to implement a multithreaded web crawler, improving crawling efficiency.
+2. robots.txt Support: The crawler respects the robots.txt protocol to avoid accessing prohibited areas of the websites.
+3. Logging and Statistics: At the end of each crawl, detailed statistics are logged, including the total number of pages crawled, total size, and any encountered 404 errors.
+
+The URL being visited.
+The size of the page in bytes.
+The HTTP status code returned by the server (e.g., 200 for success).
+The depth of the URL in the crawl hierarchy (indicating how far the crawler has gone from the initial seed URLs).
+The current time (formatted as YYYY-MM-DD HH:MM:SS).
+If a message is provided (such as an error message), it is also written to the log file.
+
+Appending Data: Since the file is opened in append mode, each time a new URL is processed, the log information is added to the end of the file, preserving previous entries.
+
+Example Log Entry:
+URL: http://example.com, Size: 1234 bytes, Status: 200, Depth: 2, Time: 2024-09-19 14:30:45
+Message: Successfully fetched
+This function helps track the crawler's progress and any errors that might occur during the crawling process. It creates a persistent log that can be reviewed later for analysis or debugging.
+
+
+
+
+
+
