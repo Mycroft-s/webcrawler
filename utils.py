@@ -37,7 +37,7 @@ def is_blacklisted(url):
     return False
 
 def get_mime_type(url, retries=3):
-    """获取文件的 MIME 类型，过滤非HTML文件"""
+    """Gets the MIME type of the file and filters non-HTML files"""
     mime_type, _ = mimetypes.guess_type(url)
     if mime_type is None:
         try:
@@ -52,7 +52,7 @@ def get_mime_type(url, retries=3):
                 except HTTPError as e:
                     if e.code == 404:
                         print(f"Page not found for {url}: {e}")
-                        return None  # 跳过 404 页面
+                        return None  # 跳过 404 页面  bug: It skips 404, but not record.
                     elif e.code in [403, 500]:
                         print(f"Server error for {url}: {e}")
                         return None  # 处理 403 和 500 错误
