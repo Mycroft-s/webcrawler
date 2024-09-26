@@ -8,11 +8,11 @@ def parse_links(content, base_url):
     soup = BeautifulSoup(content, 'html.parser')
     base_tag = soup.find('base', href=True)
     if base_tag:
-        base_url = base_tag['href']  # 使用<base>标签指定的URL作为基础
+        base_url = base_tag['href']  # 使用<base>标签指定的URL作为基础 Use the URL specified by the <base> tag as the base
     links = []
     for a_tag in soup.find_all('a', href=True):
         link = a_tag['href']
-        # 解析相对路径为绝对路径
+        # 解析相对路径为绝对路径  The resolvent relative path is an absolute path
         full_link = urllib.parse.urljoin(base_url, link)
         links.append(full_link)
     return links
