@@ -22,7 +22,7 @@ def normalize_url(url):
         url = urljoin(url, '/')  # 去掉文件名部分
     return url
 
-#单进程
+#Single Process
 def bfs_crawl(seed_urls):
     visited_urls = set()
     queue = seed_urls
@@ -72,7 +72,7 @@ def bfs_crawl(seed_urls):
             print(f"Error accessing {url}: {e}")
             log_url_info(url, 0, 'Error', depth)
 
-# 从文件中加载种子URL并随机选择两个集合
+# load URL and consist randomly
 def load_random_seed_urls(filename, n=20):
     """从文件中加载种子URL，并随机选择两个不同的种子集合"""
     try:
@@ -87,6 +87,8 @@ def load_random_seed_urls(filename, n=20):
         print(f"Error reading {filename}: {e}")
         return [], []
 
+
+#Single Process
 def crawl_url(url, depth, visited_urls, depth_dict, queue, log_filename):
     global pages_crawled, total_size, error_404_count
     """处理单个 URL 的爬虫任务"""
@@ -138,7 +140,7 @@ def crawl_url(url, depth, visited_urls, depth_dict, queue, log_filename):
                             depth_dict[link] = depth + 1
 """
 
-
+#mulit-process
 def bfs_crawl_multithreaded(seed_urls, log_filename, max_workers=5, max_pages=5000):
     visited_urls = set()
     queue = seed_urls
@@ -149,7 +151,7 @@ def bfs_crawl_multithreaded(seed_urls, log_filename, max_workers=5, max_pages=50
     error_404_count = 0
     start_time = time.time()
 
-    # 创建线程池
+    # 创建线程池 create thread pool
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = []
 
@@ -157,7 +159,7 @@ def bfs_crawl_multithreaded(seed_urls, log_filename, max_workers=5, max_pages=50
             with queue_lock:
                 url = queue.pop(0)
 
-            # 规范化 URL 并进行后续处理
+            # 规范化 URL 并进行后续处理  normalized
             normalized_url = normalize_url(url)
 
             with visited_lock:
@@ -165,7 +167,7 @@ def bfs_crawl_multithreaded(seed_urls, log_filename, max_workers=5, max_pages=50
                     continue  # 如果已访问，则跳过
                 visited_urls.add(normalized_url)  # 使用规范化后的 URL 记录
 
-            # 检查域名、黑名单和 MIME 类型
+            # 检查域名、黑名单和 MIME 类型  check
             if not is_nz_domain(normalized_url) or is_blacklisted(normalized_url):
                 continue
 
@@ -173,25 +175,25 @@ def bfs_crawl_multithreaded(seed_urls, log_filename, max_workers=5, max_pages=50
             if mime_type != 'text/html':
                 continue
 
-            # 提交任务到线程池
+            # 提交任务到线程池 submit
             depth = depth_dict[url]
             future = executor.submit(crawl_url, normalized_url, depth, visited_urls, depth_dict, queue, log_filename)
             futures.append(future)
 
             pages_crawled += 1
 
-        # 处理任务完成时的回调
+        # 处理任务完成时的回调   callback
         for future in as_completed(futures):
             try:
                 future.result()  # 获取线程的执行结果
             except Exception as e:
                 print(f"Thread raised an exception: {e}")
 
-    # 爬取结束，记录结束时间
+    # 爬取结束，记录结束时间  record time
     end_time = time.time()
     total_time = end_time - start_time
 
-    # 输出统计信息
+    # 输出统计信息 print
     with open(log_filename, 'a', encoding='utf-8') as log_file:
         log_file.write("\n--- Crawl Statistics ---\n")
         log_file.write(f"Total pages crawled: {pages_crawled}\n")
